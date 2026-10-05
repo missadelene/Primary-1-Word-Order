@@ -1,0 +1,6 @@
+{
+  "name": "Sentence Safari: Smartboard Sentence Builder",
+  "description": "Interactive whole-class smartboard lessons and gamified exercises teaching Grade 1 students sentence structure, capitalization, word order, and punctuation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
